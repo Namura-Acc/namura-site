@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Namura logo</title>
+  <desc id="desc">A minimal geometric N mark.</desc>
+  <rect width="64" height="64" rx="16" fill="#0d1316"/>
+  <path d="M18 46V18h7.4l13.2 17.3V18H46v28h-7.4L25.4 28.7V46H18Z" fill="#e7f5ef"/>
+  <path d="M18 46h7.4L46 18h-7.4L18 46Z" fill="#66d9b7" opacity=".72"/>
+  <rect x="9" y="9" width="46" height="46" rx="11" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+</svg>
